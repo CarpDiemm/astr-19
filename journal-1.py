@@ -1,0 +1,1 @@
+print("My name is Joaquin Carlos Garcia De Joya! My pronouns are he/him. At the moment, my current favourite movie is 'Your Name', which is a Japanese animated film from 2016. My favourite food is cornbread.")
